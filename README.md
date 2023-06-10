@@ -6,4 +6,4 @@
 * What is a virtual machine
 * What is vagrant
 * What is Ubuntu
-* How to use VMS and Vag# Vagrant
+* How to use VMS and Vagrant
